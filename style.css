@@ -10,7 +10,12 @@ body{
 }
 form{
     border: black solid 1px;
-    width: 60%;
-    height: 300px;
+    width: 100%;
     background: yellow;
+}
+input{
+    width: 75%;
+}
+button{
+    margin-bottom: 10px;
 }
